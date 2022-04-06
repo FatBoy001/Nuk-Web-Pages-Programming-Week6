@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+html, body{
+    margin:0;
+	padding:0;
+}
+div.contain{
+    background:#86b9b9;
+    width:70%;
+    /*height:100%;*/
+    margin-left:auto;
+    margin-right:auto;
+	padding:5px;
+}
+div.footer{
+    background:#86b9b9;
+}
+spam.buttom{
+    margin:0;
+	padding:0;
+}
